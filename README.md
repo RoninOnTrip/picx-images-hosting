@@ -1,9 +1,5 @@
 
 # Welcome to use PicX
 
-[PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
-
-PicX is completely open source, and you can use it for free.
-
-If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
+本仓库利用PicX完成GitHub图片托管，主要用于图片托管，目前使用情况的表现不错，推荐新手及感兴趣的师傅进行尝试和交流。
         
